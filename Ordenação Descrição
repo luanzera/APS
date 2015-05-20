@@ -17,3 +17,7 @@ O Selection Sort utiliza um o conceito de "selecionar o elemento mais apto". Ele
 
 O quicksort (Ordenação Rápida) é um método de ordenação baseado no conceito de dividir-e-conquistar. Inicialmente ele seleciona um elemento o qual é chamado de pivô, depois remove este pivô e particiona os elementos restantes em duas sequências, uma com os valores menores do que o pivô e outras com valores maiores.
 
+# MERGE SORT
+
+O Merge Sort (ou ordenação por mistura) é um exemplo de algoritmo de ordenação do tipo dividir-para-conquistar.
+Sua ideia básica consiste em dividir (o problema em vários sub-problemas e resolver esses sub-problemas através da recursividade) e conquistar (após todos os sub-problemas terem sido resolvidos ocorre a conquista que é a união das resoluções dos sub-problemas). Como o algoritmo do Merge Sort usa a recursividade em alguns problemas esta técnica não é muito eficiente devido ao alto consumo de memória e tempo de execução.
