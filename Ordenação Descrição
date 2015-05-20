@@ -1,0 +1,17 @@
+
+# BUBBLE SORT
+
+O bubble sort, ou ordenação por flutuação (literalmente "por bolha"), é um algoritmo de ordenação dos mais simples. A idéia é comparar dois elementos e trocá-los de posição, até que os elementos de maior valor sejam levados para o final do vetor. O processo continua até a ordenação total do vetor lembrando a forma como as bolhas em um tanque de água procuram seu próprio nível, e disso vem o nome do algoritmo.
+
+# REAP SORT
+
+O Reap Sort tem um desempenho em tempo de execução muito bom em conjuntos ordenados aleatoriamente, tem um uso de memória bem comportado e o seu desempenho em pior cenário é praticamente igual ao desempenho em cenário médio. Alguns algoritmos de ordenação rápidos têm desempenhos espectacularmente ruins no pior cenário, quer em tempo de execução, quer no uso da memória. O Heapsort trabalha no lugar e o tempo de execução em pior cenário para ordenar N elementos é de O (n lg n). Lê-se logaritmo (ou log) de "n" na base 2. Para valores de n, razoavelmente grandes, o termo lg n é quase constante, de modo que o tempo de ordenação é quase linear com o número de itens a ordenar.
+
+# SELECTION SORT
+
+O Selection Sort utiliza um o conceito de "selecionar o elemento mais apto". Ele seleciona o menor ou maior valor do vetor e, por exemplo, passa para a primeira (ou última posição dependendo da ordem requerida), depois o segundo menor para a segunda posição e assim sucessivamente com (n-1) elementos restantes até os dois últimos.
+
+# QUICK SORT
+
+O quicksort (Ordenação Rápida) é um método de ordenação baseado no conceito de dividir-e-conquistar. Inicialmente ele seleciona um elemento o qual é chamado de pivô, depois remove este pivô e particiona os elementos restantes em duas sequências, uma com os valores menores do que o pivô e outras com valores maiores.
+
