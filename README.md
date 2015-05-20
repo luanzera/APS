@@ -1,19 +1,1 @@
-# APS
 
-Em vários momentos do dia a dia, o homem depara-se com a necessidade de consultar dados ordenados. Como exemplo, pode-se citar uma lista telefônica. Imagine como seria consultar o telefone de uma pessoa se os nomes não estivessem classificados em ordem alfabética. Por isso uma das atividades mais utilizadas na computação é a ordenação.
-
-Ordenação é o ato de se colocar os elementos de uma sequência de informações, ou dados, em uma relação de ordem predefinida. O termo técnico em inglês para ordenação é sorting, as ordens mais utilizadas são as numéricas e as lexicográficas.
-
-Dado uma seqüencia de n dados:
-• http://upload.wikimedia.org/math/b/c/3/bc323623653e3e37c6dd199ab13afc3e.png
-O problema de ordenação é uma permutação dessa seqüencia:
-• http://upload.wikimedia.org/math/e/2/9/e2902b5aa5b610e585591497b9333062.png
-tal que:
-• http://upload.wikimedia.org/math/5/c/3/5c388223c2201a11d30860a9bb7e4138.png 
-para alguma relação de ordem.
-
-Algumas ordens são facilmente definidas. Por exemplo, a ordem numérica, ou a ordem alfabética --crescentes ou decrescentes. Contudo, existem ordens, especialmente de dados compostos, que podem ser não triviais de se estabelecer.
-Um algoritmo que ordena uma conjunto, geralmente representada num vetor, é chamado de algoritmo de ordenação. 
-
-Algoritmo de ordenação em ciência da computação é um algoritmo que coloca os elementos de uma dada sequência em uma certa ordem -- em outras palavras, efetua sua ordenação completa ou parcial. As ordens mais usadas são a numérica e a lexicográfica. Existem várias razões para se ordenar uma sequência. Uma delas é a possibilidade se acessar seus dados de modo mais eficiente.
-Entre os mais importantes, podemos citar bubble sort (ou ordenação por flutuação), heap sort (ou ordenação por heap), insertion sort (ou ordenação por inserção), merge sort(ou ordenação por mistura) e o quicksort. Existem diversos outros, que o aluno pode com dedicação pesquisar por si. Para estudo no entanto nos concentraremos nos principais : Selection Sort, Bubble Sort e Quicksort.
