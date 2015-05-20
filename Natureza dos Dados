@@ -1,0 +1,12 @@
+Para melhor escolha de um método de ordenação é preciso saber sobre a natureza dos dados que serão processados. Entre 
+elas destacam-se duas: Tempo de acesso a um elemento e a possibilidade de acesso direto a um elemento.
+
+O tempo de acesso a um elemento é a complexidade necessária para acessar um elemento em uma estrutura;
+
+Ex: Uma estante de livros com seu títulos bem visíveis.
+A possibilidade de acesso direto é a capacidade ou impossibilidade de acessar um elemento diretamente na estrutura.
+
+Ex: Uma pilha de livros dentro de uma caixa, onde precisamos tirar um a um para saber qual a sua natureza.
+Para classificarmos estes dois ambientes de atuação, costumamos utilizar o meio em que está armazenado os dados. 
+Em termos computacionais utiliza-se a designação Ordenação Interna, quando queremos ordenar informações em memória. 
+E Ordenação Externa, quando queremos ordenar informações em arquivo.
